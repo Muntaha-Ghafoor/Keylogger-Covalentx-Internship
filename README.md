@@ -9,6 +9,9 @@
 
 > A basic keylogger program that records and logs keystrokes to a file. Built for educational purposes as part of the CovalentX Internship Program.
 
+## 🔗 Repository
+👉 **[View on GitHub](https://github.com/Muntaha-Ghafoor/Keylogger-Covalentx-Internship)**
+
 ---
 
 ## ⚠️ Ethical Disclaimer
@@ -27,6 +30,7 @@ Unauthorized use of keyloggers is **illegal** and unethical.
 ## 📌 Table of Contents
 
 - [About the Project](#about-the-project)
+- [Demo](#demo)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -41,6 +45,12 @@ Unauthorized use of keyloggers is **illegal** and unethical.
 ## 📖 About the Project
 
 This project is part of **Task 03** of the **CovalentX Internship Program**. A keylogger is a program that records keystrokes made by a user. This project focuses on understanding how input monitoring works at a system level using Python.
+
+---
+
+## 📸 Demo
+
+![Keylogger Demo](Task-03-Keylogger/demo.png)
 
 ---
 
@@ -65,7 +75,8 @@ Keylogger-Covalentx-Internship/
 ├── README.md                   ← Project documentation
 └── Task-03-Keylogger/
     ├── keylogger.py            ← Main keylogger program
-    └── keylog.txt              ← Auto-created when program runs
+    ├── keylog.txt              ← Auto-created when program runs
+    └── demo.png                ← Demo screenshot
 ```
 
 ---
